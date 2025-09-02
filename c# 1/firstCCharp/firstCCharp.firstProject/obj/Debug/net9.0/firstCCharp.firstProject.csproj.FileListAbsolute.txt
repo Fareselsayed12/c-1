@@ -1,0 +1,14 @@
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\bin\Debug\net9.0\firstCCharp.firstProject.exe
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\bin\Debug\net9.0\firstCCharp.firstProject.deps.json
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\bin\Debug\net9.0\firstCCharp.firstProject.runtimeconfig.json
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\bin\Debug\net9.0\firstCCharp.firstProject.dll
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\bin\Debug\net9.0\firstCCharp.firstProject.pdb
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\obj\Debug\net9.0\firstCCharp.firstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\obj\Debug\net9.0\firstCCharp.firstProject.AssemblyInfoInputs.cache
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\obj\Debug\net9.0\firstCCharp.firstProject.AssemblyInfo.cs
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\obj\Debug\net9.0\firstCCharp.firstProject.csproj.CoreCompileInputs.cache
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\obj\Debug\net9.0\firstCCharp.firstProject.dll
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\obj\Debug\net9.0\refint\firstCCharp.firstProject.dll
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\obj\Debug\net9.0\firstCCharp.firstProject.pdb
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\obj\Debug\net9.0\firstCCharp.firstProject.genruntimeconfig.cache
+C:\Users\Eslamia\Desktop\firstCCharp\firstCCharp.firstProject\obj\Debug\net9.0\ref\firstCCharp.firstProject.dll
